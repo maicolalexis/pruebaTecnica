@@ -1,0 +1,33 @@
+.vidas{
+  margin-left: 350px;
+    width: 100%;
+    height: 250px;
+  
+    display: flex;
+    align-items: flex-end;
+  }
+  
+  .vidaUsuario{
+    width: 200px;
+    height: 250px;
+
+    
+  }
+  .vs{
+    width: 200px;
+    height: 250px;
+  }
+  .vidaMaquina{
+    float: right;
+    width: 200px;
+    height: 250px;
+
+  }
+  #seleccionPersona{
+    margin-left: 500px;
+    height: 200px;
+      background: white;
+      color: black;
+      display: flex;
+      align-items: flex-end;
+  }
